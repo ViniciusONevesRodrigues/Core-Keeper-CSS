@@ -1,2 +1,2 @@
 # Core-Keeper-CSS
-Core Keeper using css e html
+Core Keeper using CSS and HTML
